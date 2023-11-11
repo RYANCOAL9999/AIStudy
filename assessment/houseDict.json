@@ -1,0 +1,86 @@
+{
+    "bedrooms": {
+        "title": "Number of bedrooms",
+        "labels": {
+            "bedrooms": "N° of bedrooms"
+        }
+    },
+    "bathrooms": {
+        "title": "Number of bathrooms",
+        "labels": {
+            "bathrooms": "N° of bathrooms"
+        }
+    },
+    "sqft_living": {
+        "title": "Number of squared feet of living",
+        "labels": {
+            "sqft_living": "N° of squared feet of living"
+        }
+    },
+    "sqft_lot": {
+        "title": "Number of squared feet of lot",
+        "labels": {
+            "sqft_lot": "N° of squared feet of lot"
+        }
+    },
+    "floors": {
+        "title": "Number of floors",
+        "labels": {
+            "floors": "N° of floors"
+        }
+    },
+    "waterfront": {
+        "title": "Is waterfront?",
+        "labels": {
+            "waterfront": "waterfront"
+        }
+    },
+    "view": {
+        "title": "Number of view",
+        "labels": {
+            "view": "N° of view"
+        }
+    },
+    "condition": {
+        "title": "Number of condition",
+        "labels": {
+            "condition": "N° of condition"
+        }
+    },
+    "grade": {
+        "title": "Number of grade",
+        "labels": {
+            "grade": "N° of grade"
+        }
+    },
+    "sqft_above": {
+        "title": "Number of squared feet above",
+        "labels": {
+            "sqft_above": "N° of squared feet above"
+        }
+    },
+    "sqft_basement": {
+        "title": "Number of squared feet of basement",
+        "labels": {
+            "sqft_basement": "N° of quared feet of basement"
+        }
+    },
+    "yr_built": {
+        "title": "When was built?",
+        "labels": {
+            "yr_built": "Year"
+        }
+    },
+    "yr_renovated": {
+        "title": "When was renovated?",
+        "labels": {
+            "yr_renovated": "Year of renovation"
+        }
+    },
+    "sqft_living15": {
+        "title": "Number of squared feet of lot",
+        "labels": {
+            "sqft_lot15": "N° of squared feet of lot"
+        }
+    }
+}

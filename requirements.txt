@@ -1,0 +1,9 @@
+seaborn==0.13.0
+statsmodels== 0.14.0
+sklearn==0.0.post10
+pandas==1.4.3
+numpy==1.24.2
+matplotlib==3.8.0
+plotly==5.17.0
+scikit-image==0.22.0
+opencv-python==4.8.1.78
