@@ -12,3 +12,7 @@ gTTS==2.2.3
 transformers==4.11.3
 tensorflow==2.6.0
 pytorch==2.1.0
+keras==3.0.0
+xgboost==2.02
+ipython==8.18.1
+sportsreference==0.5.2
