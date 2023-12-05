@@ -7,3 +7,8 @@ matplotlib==3.8.0
 plotly==5.17.0
 scikit-image==0.22.0
 opencv-python==4.8.1.78
+SpeechRecognition==3.8.1
+gTTS==2.2.3
+transformers==4.11.3
+tensorflow==2.6.0
+pytorch==2.1.0
