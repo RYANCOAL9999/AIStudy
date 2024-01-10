@@ -69,7 +69,7 @@ def racistWord(
     plt.axis('off')
     plt.show()
 
-def hashtagsTive(tive, columns, header, n, y, x):
+def hashtagsTive(tive:int, header:int, n:int, columns:str or list[str], y:str, x:str):
     # unnest the list
     ht_tive_unnest = sum(tive, [])
     # Counting the frequency of the words having Sentiment with Postive or Negative

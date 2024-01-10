@@ -16,7 +16,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 warnings.filterwarnings("ignore")
 
-def decontracted(phrase):
+def decontracted(phrase:str):
     # specific
     phrase = re.sub(r"won't", "will not", phrase)
     phrase = re.sub(r"can\'t", "can not", phrase)
@@ -32,7 +32,7 @@ def decontracted(phrase):
     phrase = re.sub(r"\'m", " am", phrase)
     return phrase
 
-def generateTextIloc(train):
+def generateTextIloc(train:any):
     preprocessed_text = []
 
     for sentence in tqdm(train.values):

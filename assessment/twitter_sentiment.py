@@ -25,14 +25,14 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 warnings.filterwarnings("ignore")
 
-def hashtag_extract(x):
+def hashtag_extract(x:any):
   hashtags = []
   for i in x:
     ht = re.findall(r"#(\w+)", i)
     hashtags.append(ht)
   return hashtags
 
-def add_label(twt):
+def add_label(twt:any):
   output = []
   for i, s in zip(twt.index, twt):
     output.append(LabeledSentence(s, ["tweet_" + str(i)]))
