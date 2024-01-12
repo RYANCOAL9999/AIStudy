@@ -1,3 +1,5 @@
+# https://github.com/twitterdev/Twitter-API-v2-sample-code
+
 import tweepy
 
 twitter_Client_ID = 'b3Zfbi05T2hpZEl2ZkJ1VU1mX2M6MTpjaQ'
